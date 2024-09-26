@@ -1,0 +1,3 @@
+Name: Nathi
+Age: 25
+Favorite Color: Green
